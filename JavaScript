@@ -1,0 +1,14 @@
+var firstName = "Fajar";
+var lastName = "Sidik";
+let age = 25
+var identitas = `First Name : ${firstName}
+Last Name : ${lastName}
+Age : ${age} Tahun`
+console.log(identitas);
+
+let isMarried = false;
+if (isMarried) {
+    console.log("isMarried : Ya");
+} else {
+    console.log("isMarried : Tidak/Belum");
+}
